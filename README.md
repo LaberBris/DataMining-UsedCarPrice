@@ -31,7 +31,7 @@
 
 MAE的计算公式如下：
 
-![MAE Formula](/images/mae_formula.png)
+![MAE Formula](/images/mae_formula.png_)
 
 其中：
 - \( n \) 是样本数量。
