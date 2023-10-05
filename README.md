@@ -1,6 +1,7 @@
 # DataMining_UsedCarPrice
 
-~~以下内容由ChatGPT生成【~~
+~~以下内容由ChatGPT生成~~
+
 大数据导论大作业：数据挖掘 - 二手车交易价格预测
 
 这个项目是我在学校大数据导论课程中的大作业。我们的目标是通过数据挖掘技术预测二手车交易价格。我们将分析二手车市场的数据，利用列名如SaleID、name、regDate、model、brand、bodyType、fuelType、gearbox、power、kilometer等多个特征，尝试建立模型以预测二手车的交易价格，通过MAE评价指标来衡量模型的预测准确度。
