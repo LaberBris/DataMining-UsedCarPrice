@@ -31,7 +31,7 @@
 
 MAE的计算公式如下：
 
-\[ MAE = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i| \]
+![MAE Formula](https://latex.codecogs.com/png.latex?MAE%20%3D%20%5Cfrac%7B1%7D%7Bn%7D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20%7Cy_i%20-%20%5Chat%7By}_i%7C)
 
 其中：
 - \( n \) 是样本数量。
